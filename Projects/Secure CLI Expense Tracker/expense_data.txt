@@ -1,0 +1,13 @@
+{
+    "uname": "xyz@1133",
+    "expenses": [
+        {
+            "amount": 200.0,
+            "desc": "coffee"
+        },
+        {
+            "amount": 500.0,
+            "desc": "travel"
+        }
+    ]
+}

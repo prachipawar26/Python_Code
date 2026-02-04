@@ -1,0 +1,10 @@
+{
+    "name": "Prachi",
+    "age": 20,
+    "city": "Mumbai",
+    "isEmployed": true,
+    "titles": [
+        "Engineer",
+        "QA/Tester"
+    ]
+}

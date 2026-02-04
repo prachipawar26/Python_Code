@@ -1,0 +1,38 @@
+"Code 
+Range","Category","Meaning","Analogy"
+"1xx","Informational","Request 
+received, 
+continuing process.","""I'm 
+checking 
+with 
+the 
+chef right now."""
+"2xx","Success","The   action   was  successfully 
+received and accepted.","""Here is your food!"""
+"3xx","Redirection","Further   action   needs   to   be 
+taken 
+to 
+complete 
+the 
+request.","""We 
+moved 
+to 
+a 
+new 
+building 
+down 
+the 
+street."""
+"4xx","Client Error","The 
+request 
+contains 
+bad 
+syntax or cannot be fulfilled.","""You 
+ordered 
+something 
+not 
+on 
+the 
+menu."""
+"5xx","Server Error","The   server   failed  to  fulfill  an 
+apparently valid request.","""The stove exploded."""
