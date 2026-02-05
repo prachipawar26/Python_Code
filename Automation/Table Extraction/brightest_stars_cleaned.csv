@@ -1,0 +1,95 @@
+Rank,Visual magnitude (mV),Proper name[8],Bayer designation,Distance (ly),Spectral type,Celestial Hemisphere
+0,−26.74,Sun,,0.0,G2 V,
+1,−1.46,Sirius,α Canis Majoris,8.6,"A0mA1 Va, DA2",Southern
+2,−0.74,Canopus,α Carinae,310.0,A9 II,Southern
+3,−0.27 (0.01 + 1.33),Rigil Kentaurus & Toliman,α Centauri,4.34,"G2 V, K1 V",Southern
+4,−0.05,Arcturus,α Boötis,37.0,K0 III,Northern
+5,0.03 (−0.02–0.07var),Vega,α Lyrae,25.0,A0 Va,Northern
+6,0.08 (0.03–0.16var),Capella,α Aurigae,43.0,"K0 III, G1 III",Northern
+7,0.13 (0.05–0.18var),Rigel,β Orionis,860.0,B8 Ia,Southern
+8,0.34,Procyon,α Canis Minoris,11.0,F5 IV-V,Northern
+9,0.46 (0.40–0.46var),Achernar,α Eridani,140.0,B3 Vpe,Southern
+10,0.50 (0.0–1.6var),Betelgeuse,α Orionis,640.0,M1-M2 Ia-ab,Northern
+11,0.61,Hadar,β Centauri,390.0,B1 III,Southern
+12,0.76,Altair,α Aquilae,17.0,A7 V,Northern
+13,0.76 (1.33 + 1.73),Acrux,α Crucis,320.0,"B0.5 IV, B1 V",Southern
+14,0.86 (0.75–0.95var),Aldebaran,α Tauri,65.0,K5 III,Northern
+15,0.96 (0.6–1.6var),Antares,α Scorpii,550.0,"M1.5 Iab-Ib, B2.5 V",Southern
+16,0.97 (0.97–1.04var),Spica,α Virginis,250.0,"B1 III-IV, B2 V",Southern
+17,1.14,Pollux,β Geminorum,34.0,K0 III,Northern
+18,1.16,Fomalhaut,α Piscis Austrini,25.0,A3 V,Southern
+19,1.25 (1.21–1.29var),Deneb,α Cygni,2600.0,A2 Ia,Northern
+20,1.25 (1.23–1.31var),Mimosa,β Crucis,280.0,"B0.5 III, B2 V",Southern
+21,1.39,Regulus,α Leonis,79.0,B8 IVn,Northern
+22,1.50,Adhara,ε Canis Majoris,430.0,B2 II,Southern
+23,1.58 (1.93 + 2.97),Castor,α Geminorum,51.0,"A1 V, Am",Northern
+24,1.63,Shaula,λ Scorpii,570.0,B2 IV,Southern
+25,1.64,Gacrux,γ Crucis,89.0,M3.5 III,Southern
+26,1.64,Bellatrix,γ Orionis,250.0,B2 III,Northern
+27,1.65,Elnath,β Tauri/γ Aurigae,130.0,B7 III,Northern
+28,1.69,Miaplacidus,β Carinae,110.0,A1 III,Southern
+29,1.69 (1.64–1.74var),Alnilam,ε Orionis,1180.0,B0 Ia,Southern
+30,1.74,Alnair,α Gruis,100.0,B6 V,Southern
+31,1.77,Alnitak,ζ Orionis,1300.0,"O9.5 Iab, B1 IV, B0 III",Southern
+32,1.77,Alioth,ε Ursae Majoris,83.0,A1 III-IVp kB9,Northern
+33,1.79,Dubhe,α Ursae Majoris,120.0,"K0 III, F0 V",Northern
+34,1.82,Mirfak,α Persei,510.0,F5 Ib,Northern
+35,1.82,Wezen,δ Canis Majoris,1800.0,F8 Ia,Southern
+36,1.83 (1.81–1.87var + 4.27),–,γ Velorum,840.0,"WC8, O7.5III",Southern
+37,1.84,Sargas,θ Scorpii,330.0,F0 II,Southern
+38,1.85,Kaus Australis,ε Sagittarii,140.0,B9.5 III,Southern
+39,1.86,Avior,ε Carinae,600.0,"K3 III, B2 Vp",Southern
+40,1.86,Alkaid,η Ursae Majoris,100.0,B3 V,Northern
+41,1.90 (1.89–1.94var),Menkalinan,β Aurigae,80.0,A1mIV+A1mIV,Northern
+42,1.91,Atria,α Tringuli Australis,390.0,K2 IIb-IIIa,Southern
+43,1.92,Alhena,γ Geminorum,100.0,A1.5 IV+,Northern
+44,1.94,Peacock,α Pavonis,180.0,B3 V,Southern
+45,1.96 (1.99–2.39var + 5.57),Alsephina,δ Velorum,80.0,"A1 Va(n), F7.5 V",Southern
+46,1.98,Mirzam,β Canis Majoris,500.0,B1 II-III,Southern
+47,1.98 (1.86–2.13var),Polaris,α Ursae Minoris,430.0,F7 Ib,Northern
+48,2.00,Alphard,α Hydrae,180.0,K3 II-III,Southern
+49,2.00,Hamal,α Arietis,66.0,K1 IIIb,Northern
+50,2.02,Diphda,β Ceti,96.0,K0 III,Southern
+51,2.04,Mizar,ζ Ursae Majoris,83.0,"A2 Vp, A2 Vp, Am",Northern
+52,2.05,Nunki,σ Sagittarii,230.0,B2.5 V,Southern
+53,2.06,Menkent,θ Centauri,59.0,K0 III,Southern
+54,2.06,Alpheratz,α Andromedae,97.0,"B8 IVpMnHg, A3 V",Northern
+55,2.07[9] (2.01–2.10var),Mirach,β Andromedae,200.0,M0 III,Northern
+56,2.07,Rasalhague,α Ophiuchi,47.0,A5IVnn,Northern
+57,2.08 (2.37 + 3.64),Algieba,γ Leonis,130.0,"K0 III, G7 IIIb",Northern
+58,2.08,Kochab,β Ursae Minoris,130.0,K4 III,Northern
+59,2.09,Saiph,κ Orionis,650.0,B0.5 Ia,Southern
+60,2.11,Denebola,β Leonis,36.0,A3 Va,Northern
+61,2.12 (2.1–3.39var),Algol,β Persei,93.0,"B8 V, K0 IV, A7m",Northern
+62,2.15 (2.0–2.3var),Tiaki,β Gruis,170.0,M5 III,Southern
+63,2.17,Muhlifain,γ Centauri,130.0,"A0 III, A0 III",Southern
+64,2.21,Aspidiske,ι Carinae,690.0,A9 Ib,Southern
+65,2.21 (2.14–2.30var),Suhail,λ Velorum,570.0,K4 Ib,Southern
+66,2.23 (2.21–2.32var),Alphecca,α Coronae Borealis,75.0,"A0 V, G5 V",Northern
+67,2.23 (2.23–2.35var),Mintaka,δ Orionis,900.0,"O9.5 II, B1 V, B0 IV",Southern
+68,2.23,Sadr,γ Cygni,1500.0,F8 Iab,Northern
+69,2.23,Eltanin,γ Draconis,150.0,K5 III,Northern
+70,2.24,Schedar,α Cassiopeiae,230.0,K0 IIIa,Northern
+71,2.25,Naos,ζ Puppis,1080.0,O4 If(n)p,Southern
+72,2.26,Almach,γ Andromedae,350.0,"K3 IIb, B9.5 V, B9.5 V, A0 V",Northern
+73,2.28 (2.25–2.31var),Caph,β Cassiopeiae,54.0,F2 III,Northern
+74,2.29,Izar,ε Boötis,202.0,"K0 II-III, A2 V",Northern
+75,2.30 (2.29–2.34var),Uridim,α Lupi,550.0,B1.5 III,Southern
+76,2.30 (2.29–2.31var),—,ε Centauri,380.0,B1III,Southern
+77,2.31 (1.6–2.32var),Dschubba,δ Scorpii,400.0,"B0.3 IV, B1-3 V",Southern
+78,2.31,Larawag,ε Scorpii,65.0,K1 III,Southern
+79,2.35 (2.30–2.41var),—,η Centauri,310.0,B1.5 Vne,Southern
+80,2.37,Merak,β Ursae Majoris,79.0,A1 IVps,Northern
+81,2.38,Ankaa,α Phoenicis,77.0,K0.5 IIIb,Southern
+82,2.39,Girtab,κ Scorpii,460.0,B1.5 III,Southern
+83,2.40 (0.7–3.0var),Enif,ε Pegasi,670.0,K2 Ib,Northern
+84,2.42 (2.31–2.74var),Scheat,β Pegasi,200.0,M2.5 II-IIIe,Northern
+85,2.43,Sabik,η Ophiuchi,88.0,"A1 IV, A1 IV",Southern
+86,2.44,Phecda,γ Ursae Majoris,83.0,A0 Ve,Northern
+87,2.45,Aludra,η Canis Majoris,2000.0,B5 Ia,Southern
+88,2.46,Alderamin,α Cephei,49.0,A8Vn,Northern
+89,2.46,Markeb,κ Velorum,540.0,B2 IV,Southern
+90,2.47 (1.6–3.0var),Tiansi,γ Cassiopeiae,610.0,B0.5 IVe,Northern
+91,2.48,Markab,α Pegasi,140.0,A0 IV,Northern
+92,2.48,Aljanah,ε Cygni,72.0,K0 III-IV,Northern
+93,2.50,Acrab,β Scorpii,404.0,"B0.5 IV-V, B1.5 V, B2 V",Southern
